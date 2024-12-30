@@ -46,6 +46,16 @@ Install the required dependencies from `requirements.txt`:
 pip install -r requirements.txt
 ```
 
+### 4. Set up environment variables
+
+Create a `.env` file in the project root and add the following line to store your Google API key:
+
+```bash
+GOOGLE_API_KEY=<your-google-api-key>
+```
+
+Make sure to replace `<your-google-api-key>` with your actual Google API key.
+
 ## Running the Project
 
 ### 1. Apply database migrations
