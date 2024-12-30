@@ -28,15 +28,17 @@ frontend/
   package-lock.json # Auto-generated dependency lock file (npm)
   package.json    # Project metadata and dependencies
   vite.config.js  # Vite configuration file
-
+```
 ## Getting Started
 
 Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository
-
+  git clone <repository-url> cd frontend
+  
 ### 2. Install Dependencies
 
 Install the required packages:
 
 Using npm:
+  npm install
