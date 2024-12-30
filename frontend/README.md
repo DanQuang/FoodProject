@@ -34,7 +34,8 @@ frontend/
 Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository
-`git clone [<repository-url>](https://github.com/DanQuang/FoodProject.git)` 
+`git clone https://github.com/DanQuang/FoodProject.git` 
+
 `cd frontend`
   
 ### 2. Install Dependencies
@@ -43,3 +44,13 @@ Install the required packages:
 
 Using npm:
 `npm install`
+
+### 3. Run the Development Server
+
+Start the server in development mode:
+
+Using npm:
+`npm run dev`
+
+This will start the Vite development server. Open your browser and navigate to:
+`http://localhost:5173/`
