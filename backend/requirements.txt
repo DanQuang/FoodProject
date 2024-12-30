@@ -1,0 +1,7 @@
+django==4.2
+djangorestframework==3.14.0
+langchain==0.0.256
+google-generativeai
+Pillow==9.4.0
+django-cors-headers==4.6.0
+python-dotenv==1.0.1
