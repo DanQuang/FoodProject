@@ -52,5 +52,4 @@ Start the server in development mode:
 Using npm:
 `npm run dev`
 
-This will start the Vite development server. Open your browser and navigate to:
-`http://localhost:5173/`
+This will start the Vite development server. Open your browser and navigate to: [http://localhost:5173/](http://localhost:5173/)
